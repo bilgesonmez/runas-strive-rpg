@@ -1,10 +1,10 @@
 # Monster Hunter - Runa’s Strive Game
 
-Monster Hunter - Runa’s Strive Game is an engaging, turn-based RPG designed to deliver a challenging and strategic gameplay experience. Developed as a school project, this game puts players in control of Runa, a determined hero journeying through progressively difficult stages filled with fierce monsters, strategic skill choices, and unique rewards. Whether you're a Warrior, Mage, or Paladin, each decision matters as you balance your health, skill management, and the threat of new adversaries.
+Monster Hunter - Runa’s Strive Game is an engaging, turn-based RPG designed to deliver a challenging and strategic gameplay experience. Developed as a school project, this game puts players in control of Runa, a determined hero girl journeying through progressively difficult stages filled with fierce monsters, strategic skill choices, and unique rewards. Whether you're a Warrior, Mage, or Paladin, each decision matters as you balance your health, skill management, and the threat of new adversaries.
 
 ## 🎮 Game Overview
 
-Runa’s Strive combines classic RPG elements with a command-line interface, creating an immersive, interactive experience that’s accessible and strategic. Players are tasked with advancing through levels populated by increasingly challenging monsters, each equipped with unique skills. Success depends on choosing the right class, using skills wisely, and adapting to various enemy types. As Runa, players must navigate the perils of each stage, deciding when to discard skills for healing, selecting rewards to strengthen their deck, and staying alert as new monster abilities emerge.
+Runa’s Strive combines classic RPG elements with a command-line interface, creats an immersive, interactive experience that’s accessible and strategic. Players are tasked with advancing through levels populated by increasingly challenging monsters, each equipped with unique skills. Success depends on choosing the right class, using skills wisely, and adapting to various enemy types. As Runa, players must navigate the perils of each stage, deciding when to discard skills for healing, selecting rewards to strengthen their deck, and staying alert as new monster abilities emerge.
 
 ### Key Gameplay Mechanics
 - **Character Classes**: Each class—Warrior, Mage, and Paladin—comes with a unique deck of skills. Choose a class that matches your preferred combat style and adapt your strategy accordingly.
@@ -78,9 +78,9 @@ java Application
 
 
 ## 💡 Highlights and Innovations
-**Strategic Depth:** With health management, skill discarding, and a diverse reward system, players must constantly adapt their strategy to succeed.
-**Class and Skill Diversity:** Each character class provides a distinct gameplay experience, from high-damage Warriors to magic-wielding Mages, with unique skills that affect both offense and defense.
-**Progressive Difficulty and Replayability:** Levels and monsters evolve, providing an increasing challenge that encourages players to replay and try new approaches.
-**Rich Command-Line Interface:** Designed to be engaging and responsive, the CLI delivers an intuitive way to navigate the game’s mechanics and interact with Runa’s journey.
+   - **Strategic Depth:** With health management, skill discarding, and a diverse reward system, players must constantly adapt their strategy to succeed.
+   - **Class and Skill Diversity:** Each character class provides a distinct gameplay experience, from high-damage Warriors to magic-wielding Mages, with unique skills that affect both offense and defense.
+   - **Progressive Difficulty and Replayability:** Levels and monsters evolve, providing an increasing challenge that encourages players to replay and try new approaches.
+   - **Rich Command-Line Interface:** Designed to be engaging and responsive, the CLI delivers an intuitive way to navigate the game’s mechanics and interact with Runa’s journey.
 
 Monster Hunter - Runa’s Strive Game offers a captivating experience that balances challenging gameplay with an interactive command-line setup. Prepare to make each decision count, and may you lead Runa to victory against all odds! :)
